@@ -11,3 +11,9 @@ In recent years, twitter has become ubiquitous and important for social networki
 This project aims to give a clear picture of public sentiments about a particular topic, Election Candidate‘s image in this case to the user so that the user can get an overall idea and predict the outcome of the elections.  
 The main contribution of this project towards society is that it is equipping it with a power tool of analyzing the social media about a particular topic and getting an overall sentiment about that topic.  
 The contribution of this project towards the technology is that it is demonstrating how the power of Natural Language Processing, Sentiment Analysis and Social Networking can be used together for the benefits of the general public.
+
+####Features of the project
+*User can enter any text to determine whether it is negative, positive or neutral.
+*User can enter any candidates name to determine his image in the public using the latest tweets made about him.
+*User can compare images of two candidates in the public using the latest tweets made about them
+*User can see the latest tweets made about the candidate.
