@@ -44,7 +44,7 @@ The contribution of this project towards the technology is that it is demonstrat
  ![](images/Analyze Candidate.jpg?raw=true "Analyze Candidate")
 
  * Compare Candidates
- ![](images/Comapre Candidates.jpg?raw=true "Compare Candidates")
+ ![](images/Compare Candidates.jpg?raw=true "Compare Candidates")
 
 ####Future Scope
 Nothing is perfect; there is always a scope of improvement in everything. The strength of this project solely lies in the sentiment analysis which can be enhanced with:
