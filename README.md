@@ -26,5 +26,6 @@ The contribution of this project towards the technology is that it is demonstrat
  * AlchemyAPI API
  * XML
 
-![](images/System flow.jpg?raw=true)
+####System Flow
+![](images/System flow.jpg?raw=true "System Flow Diagram")
 
