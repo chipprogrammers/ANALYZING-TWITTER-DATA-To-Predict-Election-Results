@@ -53,7 +53,7 @@ Nothing is perfect; there is always a scope of improvement in everything. The st
  * Handling emoticons
    E.g. use of smilies :P, :D, , 
  * Handling spelling mistakes
-   E.g. repition of letters, ―@ladygaga I‘m too tireddd after a long shoot
+   E.g. repetition of letters, ―@ladygaga I‘m too tireddd after a long shoot
  * Handling sarcasms
    E.g. ―Narendra Modi is good leader…what a JOKE!
  * More strong sentiment analysis
