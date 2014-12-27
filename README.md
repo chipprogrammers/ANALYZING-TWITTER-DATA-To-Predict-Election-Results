@@ -13,7 +13,7 @@ The main contribution of this project towards society is that it is equipping it
 The contribution of this project towards the technology is that it is demonstrating how the power of Natural Language Processing, Sentiment Analysis and Social Networking can be used together for the benefits of the general public.
 
 ####Features of the project
-*User can enter any text to determine whether it is negative, positive or neutral.
-*User can enter any candidates name to determine his image in the public using the latest tweets made about him.
-*User can compare images of two candidates in the public using the latest tweets made about them
-*User can see the latest tweets made about the candidate.
+  * User can enter any text to determine whether it is negative, positive or neutral.
+  * User can enter any candidates name to determine his image in the public using the latest tweets made about him.
+  * User can compare images of two candidates in the public using the latest tweets made about them
+  * User can see the latest tweets made about the candidate.
