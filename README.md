@@ -33,3 +33,15 @@ The contribution of this project towards the technology is that it is demonstrat
 
  * Load Page
  ![](images/Load Page.jpg?raw=true "Load Page")
+
+ * Home Page
+ ![](images/Home Page.jpg?raw=true "Home Page")
+
+ * Classify Text
+ ![](images/Classify Text.jpg?raw=true "Classify Text")
+
+ * Analyze Candidate
+ ![](images/Analyze Candidate.jpg?raw=true "Analyze Candidate")
+
+ * Compare Candidates
+ ![](images/Home Page.jpg?raw=true "Compare Candidates")
