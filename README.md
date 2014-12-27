@@ -44,4 +44,26 @@ The contribution of this project towards the technology is that it is demonstrat
  ![](images/Analyze Candidate.jpg?raw=true "Analyze Candidate")
 
  * Compare Candidates
- ![](images/Home Page.jpg?raw=true "Compare Candidates")
+ ![](images/Comapre Candidates.jpg?raw=true "Compare Candidates")
+
+####Future Scope
+Nothing is perfect; there is always a scope of improvement in everything. The strength of this project solely lies in the sentiment analysis which can be enhanced with:
+ * Handling slangs
+   E.g. use of rofl, lol, Lmao etc.
+ * Handling emoticons
+   E.g. use of smilies :P, :D, , 
+ * Handling spelling mistakes
+   E.g. repition of letters, ―@ladygaga I‘m too tireddd after a long shoot
+ * Handling sarcasms
+   E.g. ―Narendra Modi is good leader…what a JOKE!
+ * More strong sentiment analysis
+   E.g. ―He‘s not a good leader but a good man‖.
+
+####Other Uses of this Application
+ * Brand Management
+ * Product Reviews
+ * Celebrity Image
+ * Movie Reviews
+ * General Consensus on a particular topic
+ * Advertisement based on mood of the User
+ * Market Research and trends
